@@ -26,6 +26,14 @@ Power Supply:
 Set to 5V, with adequate current to handle the power requirements of both motors. (5V and 2A Power Supply is enough). 
 Motors are known to draw high current; Ensure the power supply can meet these demands.
 
+Usage
+
+Adjust the power supply for 5V output.
+Upload the Arduino code to both Arduino boards.
+Move the joystick:
+Vertical Movement controls Motor 1.
+Horizontal Movement controls Motor 2.
+
 Troubleshooting
 
 If motors do not respond correctly, check the wiring and ensure the power supply is adequate.
